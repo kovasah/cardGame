@@ -1,0 +1,41 @@
+body {
+    header {
+        h1 {
+            color: black;
+        }
+
+        ul {
+            li {
+                list-style: none;
+            }
+        }
+    }
+
+    main {
+        .scores {
+            border: 2px solid black;
+            min-height: 25vh;
+            max-width: 10vw;
+        }
+
+        .table {
+            .vsSelect {
+                border: 2px solid black;
+                min-height: 25vh;
+                max-width: 10vw;
+            }
+
+            .draw {
+                border: 2px solid black;
+                min-height: 25vh;
+                max-width: 10vw;
+            }
+
+            .cardSelect {
+                border: 2px solid black;
+                min-height: 25vh;
+                max-width: 10vw;
+            }
+        }
+    }
+}

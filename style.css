@@ -1,0 +1,28 @@
+body header h1 {
+  color: black;
+}
+body header ul li {
+  list-style: none;
+}
+body main .scores {
+  border: 2px solid black;
+  min-height: 25vh;
+  max-width: 10vw;
+}
+body main .table .vsSelect {
+  border: 2px solid black;
+  min-height: 25vh;
+  max-width: 10vw;
+}
+body main .table .draw {
+  border: 2px solid black;
+  min-height: 25vh;
+  max-width: 10vw;
+}
+body main .table .cardSelect {
+  border: 2px solid black;
+  min-height: 25vh;
+  max-width: 10vw;
+}
+
+/*# sourceMappingURL=style.css.map */
