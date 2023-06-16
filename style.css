@@ -16,8 +16,12 @@ body main .table .vsSelect {
 }
 body main .table .draw {
   border: 2px solid black;
-  min-height: 25vh;
+  min-height: 30vh;
   max-width: 10vw;
+  background-image: url(./images/card\ back\ red.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 body main .table .cardSelect {
   border: 2px solid black;
